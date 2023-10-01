@@ -13,7 +13,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    repo init -u https://github.com/ViperOS/viper_manifest.git -b ten
+    repo init -u https://github.com/ViperOS/viper_manifest.git -b 11
 
 Then to sync up:
 
